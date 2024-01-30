@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RQuiz</string>
+
+    <string name="htmlHead">HTML TEST</string>
+    <string name="htmlDesc">HTML describes the structure of a web page semantically and originally included cues for its appearance. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page.</string>
+
+    <string name="cssHead">CSS TEST</string>
+    <string name="cssDesc"> CSS, or Cascading Style Sheets, is a stylesheet language used for describing the presentation of a document written in HTML or XML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. It allows developers to control the layout, style, and appearance of web pages.</string>
+
+    <string name="jsHead">JavaScript TEST</string>
+    <string name="jsDesc">JavaScript\'s versatility extends beyond the browser, making it a powerful language for web, server-side, mobile, and desktop application development. Learning JavaScript is essential for building interactive and dynamic web applications.</string>
+
+    <string name="javaHead">JAVA TEST</string>
+    <string name="javaDesc">Java is a versatile, object-oriented programming language known for its platform independence, allowing programs to run on any device with a Java Virtual Machine (JVM). It features a syntax similar to C-based languages, automatic memory management, and robust support for multi-threading. </string>
+</resources>
